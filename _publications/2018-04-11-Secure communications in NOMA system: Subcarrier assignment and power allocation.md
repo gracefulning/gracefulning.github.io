@@ -7,7 +7,7 @@ excerpt: 'Secure communication is a promising technology for wireless networks b
 date: 2018-04-11
 venue: 'IEEE Journal on Selected Areas in Communications ( Volume: 36, Issue: 7, July 2018)'
 slidesurl: 'https://arxiv.org/pdf/1801.04441'
-paperurl: 'https://arxiv.org/pdf/1801.04441'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'H. Zhang, N. Yang, K. Long, M. Pan, G. K. Karagiannidis and V. C. M. Leung, "Secure Communications in NOMA System: Subcarrier Assignment and Power Allocation," in IEEE Journal on Selected Areas in Communications, vol. 36, no. 7, pp. 1441-1452, July 2018, doi: 10.1109/JSAC.2018.2825559. keywords: {NOMA;Resource management;Relays;Wireless networks;Jamming;Physical layer;Network security;Cooperative jamming;non-orthogonal multiple access;physical layer security;energy efficiency},'
 ---
 
