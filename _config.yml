@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ning Yang / Personal Homepage"
+title                    : "Ning Yang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ning Yang"
 description              : &description "Assistant Professor"
