@@ -10,7 +10,7 @@ redirect_from:
 
 Ning Yang is an assistant professor at the Institute of Automation, Chinese Academy of Sciences (CASIA). Her research areas include large language model, reinforcement learning and the application of reinforcement learning. She received her Ph.D. from at University of Science and Technology Beijing in 2020, supervised by Prof. Haijun Zhang, IEEE Fellow. Before joining CASIA, she was a visiting student working with Prof. Randall berry, IEEE Fellow, from 2019 to 2020 at Electrical and Computer Engineering, Northwestern University.
 
-Feel free to send me an email if you are interested in doing research with me.
+Feel free to send me an email if you are interested in doing research with me.(email: ning.yang@ia.ac.cn)
 
 Research Interests
 ======
