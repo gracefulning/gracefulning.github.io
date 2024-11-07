@@ -24,12 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Ning Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor
-                     email：ning.yang@ia.an.cn"
+  bio              : "Assistant Professor"
   location         : "China"
   employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
   email            : "ning.yang@ia.an.cn"
+  email：ning.yang@ia.an.cn
 
 
   # Academic websites
