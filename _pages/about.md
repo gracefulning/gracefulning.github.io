@@ -1,49 +1,62 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Ning Yang is an assistant professor at the Institute of Automation, Chinese Academy of Sciences (CASIA). Her research areas include large language model, reinforcement learning and the application of reinforcement learning. She received her Ph.D. from at University of Science and Technology Beijing in 2020, supervised by Prof. Haijun Zhang, IEEE Fellow. Before joining CASIA, she was a visiting student working with Prof. Randall berry, IEEE Fellow, from 2019 to 2020 at Electrical and Computer Engineering, Northwestern University.
 
-A data-driven personal website
+Feel free to send me an email if you are interested in doing research with me.
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Research Area: Reinforcement learning (RL), multi-agent RL (MARL), multi-arm bandit (MAB), intelligent optimization.
+The topics of my research are as follows:
+- Theories and Methods of Intelligent Operations Research under Multiple Objectives and Constraints.
+- Techniques and Applications of Large-Scale Intelligent Operations Research Optimization
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Journal Papers:
+- N. Yang, S. Chen, H. Zhang, and R. Berry, “Beyond the Edge: An Advanced Exploration of Reinforcement Learning for Mobile Edge Computing, its Applications, and Future Research Trajectories,” IEEE Communications Surveys and Tutorials, April 2024. (SCI, IF:35.6)
+- N. Yang, H. Zhang, K. Long, C. Jiang, and Y. Yang, “Spectrum management scheme in fog IoT networks,” IEEE Communications Magazine, September 2018. (SCI, IF = 11.2, Published)
+- N. Yang, H. Zhang, K. Long, H. Hsieh, “Deep neural network for resource management in NOMA networks,” IEEE Transactions on Vehicular Technology, 2019. (SCI, Published)
+- H. Zhang, N. Yang, K. Long, M. Pan, G. K. Karagiannidis and V.C.M. Leung, “Secure communications in NOMA system: Subcarrier assignment and power allocation,” IEEE Journal on Selected Areas in Communications, 2018. (SCI, IF = 16.4, 141 citations, Published)
+- H. Zhang, N. Yang, W. Huangfu, K. Long, and V. C. M. Leung, “Power control based on deep reinforcement learning for spectrum sharing,” IEEE Transactions on Wireless Communications, 2020. (SCI, top 1% most cited articles published in 2020, IF = 10.4, 135 citations, Published)
+- X. Yang, Z. Wang, H. Zhang, N. Ma, N. Yang, H. Liu, H. Zhang and L. Yang, “A review: machine learning for combinatorial optimization problems in energy areas,” Algorithms, 2022. (Published, Corresponding author).
+- N. Ma, Z. Wang, Z. Ba, X. Li, N. Yang, X. Yang. H Zhang, “Hierarchical reinforcement learning for crude oil supply chain scheduling[J],”Algorithms, 2023, 16(7): 354. (Corresponding author, Accepted)
+- ZP Wang, RJ Lin, ZY Zhao, PM Guo, N. Yang, DX Fan, “Learn to flap: Foil non-parametric path planning via deep reinforcement learning,” Journal of Fluid Mechanics, 2023. (Corresponding author, Accepted)
+- X. Cui, B. Sun, Y. Zhu, N. Yang, H. Zhang, W. Cui, D. Fan, J. Wang, “Enhancing efficiency and propulsion in bio-mimetic robotic fish through end-to-end deep reinforcement learning,” Physics of Fluids[J], 2023. (Corresponding author, Feature Article, Accepted)
+- J. Wen, N. Yang, M. Zhang, M. Tang, “Generalizable multi-objective deep reinforcement learning for mobile edge computing,” IEEE Internet of Things Journal [J], 2024. (Corresponding author, Under review)
+Conference Papers:
+- N. Yang, H. Zhang, R. Berry, “Partially observable multi-agent deep reinforcement learning for cognitive resource management”, Globecom 2020. (Published)
+- N. Yang, J. Wen, M. Zhang, H. Zhang, J. Wang “Multi-objective deep reinforcement learning for mobile edge computing”, IEEE WiOpt 2023. (Published) 
+- H. Zhang, N. Yang, K. Long, M. Pan, G. K. Karagiannidis and V. C. M. Leung, “Energy Efficient Resource Allocation for Secure NOMA Networks”, IEEE 87th Vehicular Technology Conference, 2018. (Best Paper, Published)
+- S. Chen, N. Yang, M. Zhang, H. Zhang, J. Wang, “Minimizing age of information for MEC: A nested index policy”, IEEE WiOpt 2023. (Published, Corresponding author)
+- Q. Mi, N. Yang, H. Zhang, H. Zhang, J. Wang, “Joint caching and transmission in the mobile edge network: A multi-agent learning approach”, IEEE Globecom 2021.  (Published, Corresponding author)
+- Y. Zeng, G. Liu, W. Ma, N. Yang, H. Zhang, J. Wang, “Token-level direct preference optimization,” International Conference on Machine Learning, 2024. (Accepted)
+- N. Yang, P. Wang, G. Liu, “Rigorous constrained policy optimization with preemptive penalty”, Association for the Advancement of Artificial Intelligence (AAAI), 2025. (CCF A, Submit)
+- L. Sun, J. Jiang, N. Yang, H. Zhang, J. Wang, “Feasible constraint policy optimization for safe reinforcement learning,” Conference and Workshop on Neural Information Processing Systems, 2024. (Corresponding author, Under review)
+- Z. Zhao, N. Yang, H. Zhang, J. Wang, “Correlated mean field imitation learning,” Conference and Workshop on Neural Information Processing Systems, 2024. (Under review)
+- Y. Zhang, G. Liao, S. Cao, N. Yang, M. Zhang, “Age-minimal multicast by graph attention reinforcement learning,” International Joint Conference on Artificial Intelligence, 2024. (Under review)
+Books:
+- H. Zhang, N. Yang, “Deep learning in wireless communications,” Springer Nature, 2024. (In production)
 
-Site-wide configuration
+Research Project (Host)  
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- “Research on Dynamic Resource Management of Mobile Edge Network Based on Reinforcement Learning” (Grant No. 62301559) Supported by Natural Science Foundation of China, RMB 300,000, 2024.01-2026.12. (approximately 20% success rate)
+- “Research on Operational Research Optimization Algorithm Based on Multiagent Reinforcement Learning” (Grant No. 2022ZD0116402) Supported by the Ministry of Science and Technology, RMB 1750,000, 2023.01-2025.01
+- “Research on Combinatorial Optimization Problem Based on Reinforcement Learning” (Grant No. 4224092) Supported by Beijing Municipal Natural Science Foundation, RMB 100,000, 2022.01-2024.01. (approximately 10% success rate)
+- “Research on Reinforcement Learning in Wireless Resource Management” (Grant No. 201906460075) Supported by China Scholarship Council, RMB 150,000, 2019.09-2020.09.
+- "Research on bionic fluid dynamics based on deep reinforcement learning", West Lake University, RMB 150,000, 2023.09.26-2024.06.30;
+- "Research on key technologies for train operation chart preparation based on the accurate adaptation of market and transportation capacity" (Grant No. P2022X012), China State Railway Group Co., Ltd., RMB 200,000, 2023.07-2025.12.
 
-Create content & metadata
+Selected Awards  
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- June. 2020 PhD Graduate Excellence Award of the University of Science and Technology Beijing (top 3%)
+- June. 2018 Best Paper (IEEE 87th Vehicular Technology Conference)
+- Oct. 2018 National Scholarship (top 3%)
