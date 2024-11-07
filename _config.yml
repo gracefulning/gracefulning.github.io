@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ning Yang"
+  name             : "Ning Yang
+                     email：ning.yang@ia.an.cn"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "China"
   employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
   email            : "ning.yang@ia.an.cn" 
-  [^ref]: email：ning.yang@ia.an.cn
 
 
   # Academic websites
