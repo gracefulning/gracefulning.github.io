@@ -1,0 +1,14 @@
+---
+title: "Power control based on deep reinforcement learning for spectrum sharing"
+collection: publications
+category: manuscripts
+permalink: /publication/2020-3-24-Power control based on deep reinforcement learning for spectrum sharing
+excerpt: 'In the current researches, artificial intelligence (AI) plays a crucial role in resource management for the next generation wireless communication network. However, traditional RL cannot solve the continuous and high dimensional problems. To handle these problems, the concept of deep neural network (DNN) is introduced into RL to solve high dimensional problems. In this paper, we first construct an information interaction model among primary user (PU), secondary user (SU) and wireless sensors in a cognitive radio system. In the model, the SU is unable to get the power allocation information of the PU, and needs to use the received signal strengths (RSSs) of the wireless sensors to adjust its own power. The PU allocates transmit power relying on its power control scheme. We propose an asynchronous advantage actor critic (A3C)-based power control of SU that is a parallel actor-learners framework with root mean square prop (RMSProp) optimization. Multiple SUs learn power control scheme simultaneously on different CPU threads, reducing neural network gradient update interdependence. To further improve the efficiency of spectrum sharing, the distributed proximal policy optimization (DPPO)-based power control is proposed which is an asynchronous variant of actor-critic with adaptive moment (Adam) optimization. It enables the network to converge quickly. After several power adjustments, the PU and the SU meet quality of service (QoS) requirements and achieve spectrum sharing.'
+date: 2010-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'H. Zhang, N. Yang, W. Huangfu, K. Long and V. C. M. Leung, "Power Control Based on Deep Reinforcement Learning for Spectrum Sharing," in IEEE Transactions on Wireless Communications, vol. 19, no. 6, pp. 4209-4219, June 2020, doi: 10.1109/TWC.2020.2981320. keywords: {Power control;Wireless communication;Resource management;Sensors;Wireless sensor networks;Quality of service;Optimization;Deep reinforcement learning (DRL);cognitive radio network;spectrum sharing;power control},'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
