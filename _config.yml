@@ -12,7 +12,7 @@ title                    : "Ning Yang / About me"
 title_separator          : "-"
 name                     : &name "Ning Yang"
 description              : &description "Assistant Professor"
-url                      : "https://gracefulning.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gracefulning.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" 
 repository               : "gracefulning/gracefulning.github.io"
 academicpages
